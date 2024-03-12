@@ -15,7 +15,7 @@ Through the completion of this course, I have gained a solid understanding of Py
 -Integration of APIs in applications
 
 ## Certificate of Completion
-I have successfully completed the course and earned a certificate of completion, which can be viewed here.
+I have successfully completed the course and earned a certificate of completion, which can be viewed [here](https://www.udemy.com/certificate/UC-4c3f5848-9542-4e01-8f0a-f1ba152211f2/).
 
 ## Acknowledgements
 I would like to express my gratitude to the course instructor, Ardit Sulce, and Udemy for providing this comprehensive and practical Python programming course.
